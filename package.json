@@ -1,0 +1,10 @@
+{
+    "name": "sonny",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "ts-node src/Bot.ts"
+    },
+    "dependencies": {
+        "ts-node": "^10.9.1"
+    }
+}
