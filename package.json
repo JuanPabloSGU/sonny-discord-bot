@@ -5,6 +5,7 @@
         "start": "ts-node src/Bot.ts"
     },
     "dependencies": {
+        "dotenv": "^16.0.2",
         "ts-node": "^10.9.1"
     }
 }
